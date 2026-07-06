@@ -45,8 +45,6 @@ class Solution {
 // [3,2,4]
 // target =
 // 6
-
-// Use Testcase
 // Output
 // [0,2]
 // Expected
