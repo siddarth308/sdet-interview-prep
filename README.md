@@ -1,4 +1,4 @@
-# sdet-interview-prep
+
 # SDET Interview Preparation 🚀
 
 Welcome to my SDET Interview Preparation repository!
