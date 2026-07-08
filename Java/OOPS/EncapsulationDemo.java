@@ -1,43 +1,25 @@
+class Programmer {
 
+    private String name;
 
-class Car{
-    void hp(){
-        System.out.println("1000-2000");
+    // Getter method used to get the data
+    public String getName() {
+        return name;
     }
-}
 
-class ferrari extends Car{
-    void hp(){
-        System.out.println("1200");
-    }
-}
+    // Setter method is used to set or modify the data
+    public void setName(String name) {
 
-class Lambo extends Car{
-    void hp(){
-        System.out.println("1000");
-
-    }
-}
-
-class Bugatti extends Car {
-    void hp(){
-        System.out.println("1800");
+        this.name = name;
     }
 }
 
 public class EncapsulationDemo {
-   
-   public static void main(String[] args) {
-    Car car;
-    car = new Bugatti();
-        car.hp();
 
-        car = new Lambo();
-        car.hp();
+    public static void main(String[] args) {
 
-        car = new Bugatti();
-        car.hp();
-    
-   } 
+        Programmer p = new Programmer();
+        p.setName("Geek");
+        System.out.println("Name=> " + p.getName());
+    }
 }
-
