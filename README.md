@@ -46,7 +46,7 @@ DailyProgress/
 ### Java
 
 * [ ] Basics
-* [ ] OOP
+* [x] OOP
 * [ ] Collections
 * [ ] Exception Handling
 * [ ] Multithreading
