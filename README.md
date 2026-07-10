@@ -55,8 +55,8 @@ DailyProgress/
 ### DSA
 
 * [x] Two Sum
-* [ ] Best Time to Buy and Sell Stock
-* [ ] Contains Duplicate
+* [x] Best Time to Buy and Sell Stock
+* [x] Contains Duplicate
 * [ ] Valid Parentheses
 
 ### Automation Testing
