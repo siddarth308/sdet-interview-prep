@@ -71,3 +71,118 @@ LIMIT 3 OFFSET 3;
 
 -- AND, OR, NOT-
 
+-- The AND operator displays a record if all the conditions are TRUE. The OR operator displays a record if any of the conditions are TRUE.
+
+SELECT * FROM Customers
+WHERE country = 'USA' AND City = 'California'
+AND CustomerName LIKE 'A%'
+OR City = 'LA';
+
+
+SELECT * FROM Customers
+WHERE NOT country = 'INDIA';
+
+
+
+
+
+
+
+-- IN - 
+
+-- The IN operator functions as a shorthand for multiple OR conditions, making queries shorter and more readable.
+
+SELECT * FROM Customers
+WHERE Country IN ('Germany', 'France', 'UK');
+
+SELECT * FROM Customers
+WHERE Country = 'Germany' OR Country = 'France' OR Country = 'UK';
+
+
+
+
+
+
+
+-- BETWEEN - 
+
+SELECT * FROM Products
+WHERE Price BETWEEN 10 AND 20;
+
+SELECT * FROM Products
+WHERE Price NOT BETWEEN 10 AND 20;
+
+
+
+
+
+
+
+-- LIKE-
+
+-- The MySQL LIKE Operator The LIKE operator is used in a WHERE clause to search for a specified pattern within a column's text data.There are two wildcards often used in conjunction with the LIKE operator:
+
+-- A percent sign % - represents zero, one, or multiple characters
+-- A underscore sign _ - represents a single character
+-- The percent sign and the underscore can also be used in combinations!
+
+-- The following SQL selects all customers with a CustomerName starting with "a":
+
+SELECT * FROM Customers
+WHERE CustomerName LIKE 'a%';
+
+-- The following SQL selects all customers with a CustomerName ending with "a":
+
+
+SELECT * FROM Customers
+WHERE CustomerName LIKE '%a';
+
+
+
+The following SQL selects all customers with a CustomerName that have "or" in any position:
+
+
+SELECT * FROM Customers
+WHERE CustomerName LIKE '%or%';
+
+
+
+
+The following SQL selects all customers with a CustomerName that have "r" in the second position:
+
+
+SELECT * FROM Customers
+WHERE CustomerName LIKE '_r%';
+
+
+
+
+The following SQL selects all customers with a CustomerName that starts with "a" and are at least 3 characters in length:
+
+
+SELECT * FROM Customers
+WHERE CustomerName LIKE 'a__%';
+
+
+
+
+The following SQL selects all customers with a ContactName that starts with "a" and ends with "o":
+
+
+SELECT * FROM Customers
+WHERE ContactName LIKE 'a%o';
+
+
+
+
+
+-- IS NULL- 
+
+
+SELECT CustomerName, ContactName, Address
+FROM Customers
+WHERE Address IS NULL;
+
+SELECT CustomerName, ContactName, Address
+FROM Customers
+WHERE Address IS NOT NULL;
