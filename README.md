@@ -47,7 +47,7 @@ DailyProgress/
 
 * [ ] Basics
 * [x] OOP
-* [ ] Collections
+* [x] Collections
 * [ ] Exception Handling
 * [ ] Multithreading
 * [ ] Java 8
