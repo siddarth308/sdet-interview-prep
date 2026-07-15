@@ -59,6 +59,24 @@ DailyProgress/
 * [x] Contains Duplicate
 * [ ] Valid Parentheses
 
+### SQL
+
+- [x] SELECT
+- [x] WHERE
+- [x] ORDER BY
+- [ ] DISTINCT
+- [ ] LIMIT
+- [ ] GROUP BY
+- [ ] HAVING
+- [ ] INNER JOIN
+- [ ] LEFT JOIN
+- [ ] RIGHT JOIN
+- [ ] SELF JOIN
+- [ ] Aggregate Functions
+- [ ] Subqueries
+- [ ] Window Functions
+- [ ] Indexes
+
 ### Automation Testing
 
 * [ ] Selenium
