@@ -41,13 +41,20 @@ Notes/
 DailyProgress/
 ```
 
-## 📈 Progress
+## 🗓️ Daily Progress
+
+| Day | Topics | Status |
+|------|--------|--------|
+| Day 1 | Java Basics | ✅ |
+| Day 2 | OOP Principles | ✅ |
+| Day 3 | Arrays + SQL Basics | ✅ |
+| Day 4 | Java Collections Framework, ArrayList, LinkedList (Singly, Doubly, Circular Singly, Circular Doubly) | ✅ |
 
 ### Java
 
 * [ ] Basics
 * [x] OOP
-* [ ] Collections
+* [x] Collections
 * [ ] Exception Handling
 * [ ] Multithreading
 * [ ] Java 8
