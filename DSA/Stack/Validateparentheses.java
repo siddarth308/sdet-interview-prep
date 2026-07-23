@@ -23,9 +23,9 @@ public class Validateparentheses {
                         (c == ']' && top != '['))
 
                     return false;
-            }
 
-            st.pop();
+                st.pop();
+            }
 
         }
         return st.isEmpty();
