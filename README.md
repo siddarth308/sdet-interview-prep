@@ -64,7 +64,8 @@ DailyProgress/
 * [x] Two Sum
 * [x] Best Time to Buy and Sell Stock
 * [x] Contains Duplicate
-* [x] Valid Parentheses
+* [x] Validate Parentheses
+* [x] Valid Anagram
 
 ### SQL
 
