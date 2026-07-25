@@ -48,7 +48,9 @@ DailyProgress/
 | Day 1 | Java Basics | ✅ |
 | Day 2 | OOP Principles | ✅ |
 | Day 3 | Arrays + SQL Basics | ✅ |
-| Day 4 | Java Collections Framework, ArrayList, LinkedList (Singly, Doubly, Circular Singly, Circular Doubly) | ✅ |
+| Day 4 | Java Collections, ArrayList, LinkedList | ✅ |
+| Day 5 | Valid Parentheses | ✅ |
+| Day 6 | Valid Anagram, Merge Sorted Array, Remove Duplicates from Sorted Array | ✅ |
 
 ### Java
 
