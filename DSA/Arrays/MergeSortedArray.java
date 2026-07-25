@@ -1,3 +1,14 @@
+/*
+Problem: Merge Sorted Array
+Difficulty: Easy
+Pattern: Two Pointers
+Time Complexity: O(m + n)
+Space Complexity: O(1)
+
+Key Learning:
+- Merge from the end to avoid overwriting elements.
+*/
+
 public class MergeSortedArray {
 
     // using 2 pointers
