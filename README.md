@@ -61,11 +61,18 @@ DailyProgress/
 
 ### DSA
 
-* [x] Two Sum
-* [x] Best Time to Buy and Sell Stock
-* [x] Contains Duplicate
-* [x] Validate Parentheses
-* [x] Valid Anagram
+#### Arrays
+- [x] Two Sum
+- [x] Best Time to Buy and Sell Stock
+- [x] Contains Duplicate
+- [x] Merge Sorted Array
+- [x] Remove Duplicates from Sorted Array
+
+#### Strings
+- [x] Valid Anagram
+
+#### Stack
+- [x] Valid Parentheses
 
 ### SQL
 
