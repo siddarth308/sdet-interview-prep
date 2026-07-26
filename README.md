@@ -51,15 +51,31 @@ DailyProgress/
 | Day 4 | Java Collections, ArrayList, LinkedList | ✅ |
 | Day 5 | Valid Parentheses | ✅ |
 | Day 6 | Valid Anagram, Merge Sorted Array, Remove Duplicates from Sorted Array | ✅ |
+| Day 7 | HashMap, HashSet, TreeMap, TreeSet | ✅ |
 
 ### Java
 
-* [ ] Basics
-* [x] OOP
-* [x] Collections
-* [ ] Exception Handling
-* [ ] Multithreading
-* [ ] Java 8
+#### Core Java
+- [x] Basics
+- [x] OOP
+- [x] Collections Framework
+
+#### Collections
+- [x] ArrayList
+- [x] LinkedList
+- [x] HashMap
+- [x] HashSet
+- [x] TreeMap
+- [x] TreeSet
+- [ ] Queue
+- [ ] PriorityQueue
+- [ ] Stack
+- [ ] Iterator
+
+#### Advanced Java
+- [ ] Exception Handling
+- [ ] Multithreading
+- [ ] Java 8
 
 ### DSA
 
