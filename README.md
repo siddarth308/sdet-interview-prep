@@ -68,10 +68,10 @@ DailyProgress/
 - [x] HashSet
 - [x] TreeMap
 - [x] TreeSet
-- [ ] Queue
-- [ ] PriorityQueue
-- [ ] Stack
-- [ ] Iterator
+- [x] Queue
+- [x] PriorityQueue
+- [x] Stack
+- [x] Iterator
 
 #### Advanced Java
 - [ ] Exception Handling
