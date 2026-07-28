@@ -52,6 +52,7 @@ DailyProgress/
 | Day 5 | Valid Parentheses | ✅ |
 | Day 6 | Valid Anagram, Merge Sorted Array, Remove Duplicates from Sorted Array | ✅ |
 | Day 7 | HashMap, HashSet, TreeMap, TreeSet | ✅ |
+| Day 8 | Queue, PriorityQueue, Stack, Iterator | ✅ |
 
 ### Java
 
