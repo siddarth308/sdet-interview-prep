@@ -53,6 +53,7 @@ DailyProgress/
 | Day 6 | Valid Anagram, Merge Sorted Array, Remove Duplicates from Sorted Array | ✅ |
 | Day 7 | HashMap, HashSet, TreeMap, TreeSet | ✅ |
 | Day 8 | Queue, PriorityQueue, Stack, Iterator | ✅ |
+| Day 9 | Majority Element, Exception Handling (try, catch, finally) | ✅ |
 
 ### Java
 
