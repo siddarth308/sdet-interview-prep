@@ -86,6 +86,7 @@ DailyProgress/
 - [x] Contains Duplicate
 - [x] Merge Sorted Array
 - [x] Remove Duplicates from Sorted Array
+- [x]  Majority Element
 
 #### Strings
 - [x] Valid Anagram
