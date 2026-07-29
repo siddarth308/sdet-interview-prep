@@ -74,7 +74,7 @@ DailyProgress/
 - [x] Iterator
 
 #### Advanced Java
-- [ ] Exception Handling
+- [x] Exception Handling
 - [ ] Multithreading
 - [ ] Java 8
 
