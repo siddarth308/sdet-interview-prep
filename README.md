@@ -6,8 +6,14 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/siddarth308/sdet-interview-prep)
 ![Repo Size](https://img.shields.io/github/repo-size/siddarth308/sdet-interview-prep)
 
-Welcome to my SDET Interview Preparation repository!
+## 📊 Progress Stats
 
+| Category | Progress |
+|----------|---------:|
+| Java Topics | 13 |
+| DSA Problems | 8 |
+| SQL Topics | 3 |
+| GitHub Commits | Live |
 Welcome to my SDET Interview Preparation repository!
 
 This repository documents my journey towards preparing for Software Development Engineer in Test (SDET) interviews. It contains my solutions to coding problems, Java concepts, automation testing examples, notes, and system design learnings.
