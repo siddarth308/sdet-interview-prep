@@ -1,10 +1,12 @@
-
 # SDET Interview Preparation 🚀
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
-![DSA](https://img.shields.io/badge/DSA-9%20Problems-blue)
+![DSA](https://img.shields.io/badge/DSA-8%20Problems-blue)
 ![SQL](https://img.shields.io/badge/SQL-Basics-green)
-![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/REPO)
+![GitHub last commit](https://img.shields.io/github/last-commit/siddarth308/sdet-interview-prep)
+![Repo Size](https://img.shields.io/github/repo-size/siddarth308/sdet-interview-prep)
+
+Welcome to my SDET Interview Preparation repository!
 
 Welcome to my SDET Interview Preparation repository!
 
