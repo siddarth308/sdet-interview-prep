@@ -1,6 +1,11 @@
 
 # SDET Interview Preparation 🚀
 
+![Java](https://img.shields.io/badge/Java-17-orange)
+![DSA](https://img.shields.io/badge/DSA-9%20Problems-blue)
+![SQL](https://img.shields.io/badge/SQL-Basics-green)
+![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/REPO)
+
 Welcome to my SDET Interview Preparation repository!
 
 This repository documents my journey towards preparing for Software Development Engineer in Test (SDET) interviews. It contains my solutions to coding problems, Java concepts, automation testing examples, notes, and system design learnings.
@@ -30,15 +35,32 @@ This repository documents my journey towards preparing for Software Development 
 
 ```text
 Java/
+├── OOPS/
+├── Collections/
+├── ExceptionHandling/
+├── Java8/
+└── Multithreading/
+
 DSA/
+├── Arrays/
+├── Strings/
+├── Stack/
+├── Queue/
+├── LinkedList/
+├── Trees/
+└── Graphs/
+
+SQL/
+├── Basics/
+├── Joins/
+└── Advanced/
+
 Selenium/
 Playwright/
 Appium/
 API_Testing/
-SQL/
 System_Design/
 Notes/
-DailyProgress/
 ```
 
 ## 🗓️ Daily Progress
@@ -54,6 +76,7 @@ DailyProgress/
 | Day 7 | HashMap, HashSet, TreeMap, TreeSet | ✅ |
 | Day 8 | Queue, PriorityQueue, Stack, Iterator | ✅ |
 | Day 9 | Majority Element, Exception Handling (try, catch, finally) | ✅ |
+| Day 10 | Exception Handling, Move Zeroes | ✅ |
 
 ### Java
 
@@ -87,7 +110,8 @@ DailyProgress/
 - [x] Contains Duplicate
 - [x] Merge Sorted Array
 - [x] Remove Duplicates from Sorted Array
-- [x]  Majority Element
+- [x] Majority Element
+- [x] Move Zeroes
 
 #### Strings
 - [x] Valid Anagram
