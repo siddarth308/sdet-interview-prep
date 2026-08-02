@@ -1,7 +1,7 @@
 # SDET Interview Preparation 🚀
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
-![DSA](https://img.shields.io/badge/DSA-9%20Problems-blue)
+![DSA](https://img.shields.io/badge/DSA-10%20Problems-blue)
 ![SQL](https://img.shields.io/badge/SQL-Basics-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/siddarth308/sdet-interview-prep)
 ![Repo Size](https://img.shields.io/github/repo-size/siddarth308/sdet-interview-prep)
@@ -21,28 +21,6 @@ This repository documents my journey toward becoming a better Software Developme
 - Prepare for SDET-2 interviews
 - Maintain a consistent learning habit
 
----
-
-## 🎯 Current Focus
-
-**Week 2**
-
-- ✅ Java Exception Handling
-- ✅ DSA (Arrays)
-- ⏳ SQL Basics
-- ⏳ Java 8
-
----
-
-## 📊 Progress Stats
-
-| Category | Progress |
-|----------|---------:|
-| Core Java Topics | 4 |
-| DSA Problems Solved | 9 |
-| SQL Topics Completed | 3 |
-| Automation Projects | 0 |
-| GitHub Commits | Live |
 
 ---
 
@@ -109,6 +87,7 @@ Notes/
 | Day 8 | Queue, PriorityQueue, Stack, Iterator | ✅ |
 | Day 9 | Majority Element, Exception Handling (try, catch, finally) | ✅ |
 | Day 10 | Exception Handling (throw, throws, Checked/Unchecked, Custom Exception) + Move Zeroes | ✅ |
+| Day 11 | Java 8 (Lambdas, Functional Interfaces), Intersection of Two Arrays II, SQL DISTINCT & LIMIT | ✅ |
 
 ---
 
@@ -120,7 +99,7 @@ Notes/
 - [x] OOP
 - [x] Collections Framework
 - [x] Exception Handling
-- [ ] Java 8
+- [x] Java 8
 - [ ] Multithreading
 
 ### Collections
@@ -149,6 +128,7 @@ Notes/
 - [x] Remove Duplicates from Sorted Array
 - [x] Majority Element
 - [x] Move Zeroes
+- [x] Intersection of Two Arrays II
 
 ## Strings
 
@@ -164,7 +144,7 @@ Notes/
 
 | Pattern | Problems |
 |----------|---------:|
-| HashMap | 3 |
+| HashMap | 4 |
 | HashSet | 1 |
 | Two Pointers | 3 |
 | Stack | 1 |
@@ -177,8 +157,8 @@ Notes/
 - [x] SELECT
 - [x] WHERE
 - [x] ORDER BY
-- [ ] DISTINCT
-- [ ] LIMIT
+- [x] DISTINCT
+- [x] LIMIT
 - [ ] GROUP BY
 - [ ] HAVING
 - [ ] Aggregate Functions
