@@ -1,7 +1,7 @@
 # SDET Interview Preparation 🚀
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
-![DSA](https://img.shields.io/badge/DSA-10%20Problems-blue)
+![DSA](https://img.shields.io/badge/DSA-11%20Problems-blue)
 ![SQL](https://img.shields.io/badge/SQL-Basics-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/siddarth308/sdet-interview-prep)
 ![Repo Size](https://img.shields.io/github/repo-size/siddarth308/sdet-interview-prep)
@@ -88,6 +88,7 @@ Notes/
 | Day 9 | Majority Element, Exception Handling (try, catch, finally) | ✅ |
 | Day 10 | Exception Handling (throw, throws, Checked/Unchecked, Custom Exception) + Move Zeroes | ✅ |
 | Day 11 | Java 8 (Lambdas, Functional Interfaces), Intersection of Two Arrays II, SQL DISTINCT & LIMIT | ✅ |
+| Day 12 | Java Streams API, Maximum Subarray | ✅ |
 
 ---
 
@@ -99,7 +100,17 @@ Notes/
 - [x] OOP
 - [x] Collections Framework
 - [x] Exception Handling
-- [x] Java 8
+
+## Java 8
+
+- [x] Lambda Expressions
+- [x] Functional Interfaces
+- [x] Streams API
+- [ ] Method References
+- [ ] Optional
+
+## Advanced Java
+
 - [ ] Multithreading
 
 ### Collections
@@ -129,6 +140,7 @@ Notes/
 - [x] Majority Element
 - [x] Move Zeroes
 - [x] Intersection of Two Arrays II
+- [x] Maximum Subarray
 
 ## Strings
 
@@ -149,6 +161,7 @@ Notes/
 | Two Pointers | 3 |
 | Stack | 1 |
 | Greedy | 1 |
+| Kadane's Algorithm | 1 |
 
 ---
 
@@ -173,6 +186,7 @@ Notes/
 ---
 
 # 🤖 Automation Testing
+Automation Projects | Coming Soon
 
 - [ ] Selenium
 - [ ] Playwright
