@@ -5,6 +5,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Joins-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/siddarth308/sdet-interview-prep)
 ![Repo Size](https://img.shields.io/github/repo-size/siddarth308/sdet-interview-prep)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/siddarthawas308/)
 
 Welcome to my **SDET Interview Preparation** repository!
 
