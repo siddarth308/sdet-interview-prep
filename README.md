@@ -1,8 +1,8 @@
 # SDET Interview Preparation 🚀
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
-![DSA](https://img.shields.io/badge/DSA-13%20Problems-blue)
-![SQL](https://img.shields.io/badge/SQL-Basics-green)
+![DSA](https://img.shields.io/badge/DSA-15%20Problems-blue)
+![SQL](https://img.shields.io/badge/SQL-Joins-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/siddarth308/sdet-interview-prep)
 ![Repo Size](https://img.shields.io/github/repo-size/siddarth308/sdet-interview-prep)
 
@@ -91,6 +91,7 @@ Notes/
 | Day 12 | Java Streams API, Maximum Subarray | ✅ |
 | Day 13 | Java 8 (Method References, Optional), Pascal's Triangle | ✅ |
 | Day 14 | Multithreading, Valid Palindrome | ✅ |
+| Day 15 | Reverse Linked List, Middle of the Linked List, HashMap vs TreeMap, HashSet vs TreeSet, SQL Joins | ✅ |
 
 ---
 
@@ -150,6 +151,11 @@ Notes/
 - [x] Valid Anagram
 - [x] Valid Palindrome
 
+## Linked List
+
+- [x] Reverse Linked List
+- [x] Middle of the Linked List
+
 ## Stack
 
 - [x] Valid Parentheses
@@ -158,15 +164,16 @@ Notes/
 
 ## 📈 DSA Patterns
 
-| Pattern | Problems |
-|----------|---------:|
-| HashMap | 4 |
-| HashSet | 1 |
-| Two Pointers | 3 |
-| Stack | 1 |
-| Greedy | 1 |
-| Kadane's Algorithm | 1 |
-| Simulation | 1 |
+| Pattern            | Problems |
+| ------------------ | -------: |
+| HashMap            |        4 |
+| HashSet            |        1 |
+| Two Pointers       |        4 |
+| Stack              |        1 |
+| Greedy             |        1 |
+| Kadane's Algorithm |        1 |
+| Simulation         |        1 |
+| Linked List        |        2 |
 
 ---
 
@@ -180,9 +187,9 @@ Notes/
 - [ ] GROUP BY
 - [ ] HAVING
 - [ ] Aggregate Functions
-- [ ] INNER JOIN
-- [ ] LEFT JOIN
-- [ ] RIGHT JOIN
+- [x] INNER JOIN
+- [x] LEFT JOIN
+- [x] RIGHT JOIN
 - [ ] SELF JOIN
 - [ ] Subqueries
 - [ ] Window Functions
