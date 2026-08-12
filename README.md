@@ -1,7 +1,7 @@
 # SDET Interview Preparation 🚀
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
-![DSA](https://img.shields.io/badge/DSA-15%20Problems-blue)
+![DSA](https://img.shields.io/badge/DSA-17%20Problems-blue)
 ![SQL](https://img.shields.io/badge/SQL-Joins-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/siddarth308/sdet-interview-prep)
 ![Repo Size](https://img.shields.io/github/repo-size/siddarth308/sdet-interview-prep)
@@ -93,6 +93,7 @@ Notes/
 | Day 13 | Java 8 (Method References, Optional), Pascal's Triangle | ✅ |
 | Day 14 | Multithreading, Valid Palindrome | ✅ |
 | Day 15 | Reverse Linked List, Middle of the Linked List, HashMap vs TreeMap, HashSet vs TreeSet, SQL Joins | ✅ |
+| Day 16 | ConcurrentHashMap, SELF JOIN & CROSS JOIN, Merge Two Sorted Lists, Remove Duplicates from Sorted List | ✅ |
 
 ---
 
@@ -129,6 +130,7 @@ Notes/
 - [x] PriorityQueue
 - [x] Stack
 - [x] Iterator
+- [x] ConcurrentHashMap
 
 ---
 
@@ -156,6 +158,8 @@ Notes/
 
 - [x] Reverse Linked List
 - [x] Middle of the Linked List
+- [x] Merge Two Sorted Lists
+- [x] Remove Duplicates from Sorted List
 
 ## Stack
 
