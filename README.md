@@ -1,7 +1,7 @@
 # SDET Interview Preparation 🚀
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
-![DSA](https://img.shields.io/badge/DSA-17%20Problems-blue)
+![DSA](https://img.shields.io/badge/DSA-19%20Problems-blue)
 ![SQL](https://img.shields.io/badge/SQL-Joins-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/siddarth308/sdet-interview-prep)
 ![Repo Size](https://img.shields.io/github/repo-size/siddarth308/sdet-interview-prep)
@@ -94,6 +94,7 @@ Notes/
 | Day 14 | Multithreading, Valid Palindrome | ✅ |
 | Day 15 | Reverse Linked List, Middle of the Linked List, HashMap vs TreeMap, HashSet vs TreeSet, SQL Joins | ✅ |
 | Day 16 | ConcurrentHashMap, SELF JOIN & CROSS JOIN, Merge Two Sorted Lists, Remove Duplicates from Sorted List | ✅ |
+| Day 17 | Binary Search, Selenium WebDriver Architecture, Locators & XPath | 🔄 |
 
 ---
 
@@ -165,6 +166,11 @@ Notes/
 
 - [x] Valid Parentheses
 
+## Binary Search
+
+- [x] Binary Search
+- [x] Search Insert Position
+
 ---
 
 ## 📈 DSA Patterns
@@ -179,6 +185,7 @@ Notes/
 | Kadane's Algorithm |        1 |
 | Simulation         |        1 |
 | Linked List        |        2 |
+| Binary Search      |        2 |
 
 ---
 
@@ -199,6 +206,65 @@ Notes/
 - [ ] Subqueries
 - [ ] Window Functions
 - [ ] Indexes
+
+---
+
+# 🌐 Selenium Progress
+
+## WebDriver Fundamentals
+
+- [x] WebDriver Architecture
+- [x] Selenium WebDriver
+- [x] Locators
+- [x] XPath
+- [ ] CSS Selectors
+- [ ] WebDriver Methods
+- [ ] Browser Navigation
+- [ ] WebElement Methods
+
+## Synchronization
+
+- [ ] Implicit Wait
+- [ ] Explicit Wait
+- [ ] Fluent Wait
+- [ ] ExpectedConditions
+- [ ] Custom Waits
+
+## Browser & UI Interactions
+
+- [ ] Dropdowns
+- [ ] Alerts
+- [ ] Frames / iFrames
+- [ ] Multiple Windows / Tabs
+- [ ] Actions Class
+- [ ] JavaScript Executor
+- [ ] File Upload
+- [ ] File Download
+
+## Advanced Selenium
+
+- [ ] Shadow DOM
+- [ ] Cookies
+- [ ] Screenshots
+- [ ] Headless Execution
+- [ ] Browser Options
+- [ ] Selenium Grid
+- [ ] Parallel Execution
+- [ ] Cross-Browser Testing
+
+## Framework
+
+- [ ] Page Object Model
+- [ ] Page Factory
+- [ ] TestNG
+- [ ] Data-Driven Testing
+- [ ] Configuration Management
+- [ ] Logging
+- [ ] Reporting
+- [ ] Retry Mechanism
+- [ ] Listeners
+- [ ] Maven
+- [ ] CI/CD Integration
 
 ---
 
