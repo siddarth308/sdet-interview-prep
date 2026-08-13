@@ -56,6 +56,7 @@ DSA/
 ├── Stack/
 ├── Queue/
 ├── LinkedList/
+├── BinarySearch/
 ├── Trees/
 └── Graphs/
 
@@ -65,11 +66,21 @@ SQL/
 └── Advanced/
 
 Selenium/
+├── WebDriver/
+├── Locators/
+├── XPath/
+├── Waits/
+├── WebElements/
+├── BrowserInteractions/
+├── Advanced/
+└── Framework/
+
 Playwright/
 Appium/
 API_Testing/
 System_Design/
 Notes/
+DailyProgress/
 ```
 
 ---
