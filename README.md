@@ -1,7 +1,7 @@
 # SDET Interview Preparation 🚀
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
-![DSA](https://img.shields.io/badge/DSA-19%20Problems-blue)
+![DSA](https://img.shields.io/badge/DSA-21%20Problems-blue)
 ![SQL](https://img.shields.io/badge/SQL-Joins-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/siddarth308/sdet-interview-prep)
 ![Repo Size](https://img.shields.io/github/repo-size/siddarth308/sdet-interview-prep)
@@ -105,7 +105,8 @@ DailyProgress/
 | Day 14 | Multithreading, Valid Palindrome | ✅ |
 | Day 15 | Reverse Linked List, Middle of the Linked List, HashMap vs TreeMap, HashSet vs TreeSet, SQL Joins | ✅ |
 | Day 16 | ConcurrentHashMap, SELF JOIN & CROSS JOIN, Merge Two Sorted Lists, Remove Duplicates from Sorted List | ✅ |
-| Day 17 | Binary Search, Selenium WebDriver Architecture, Locators & XPath | 🔄 |
+| Day 17 | Binary Search, Selenium WebDriver Architecture, Locators & XPath | ✅ |
+| Day 18 | Rotated Sorted Array, First & Last Position, Selenium WebDriver Methods & Waits, SQL GROUP BY & HAVING | ✅ |
 
 ---
 
@@ -181,6 +182,8 @@ DailyProgress/
 
 - [x] Binary Search
 - [x] Search Insert Position
+- [x] Search in Rotated Sorted Array
+- [x] Find First and Last Position of Element in Sorted Array
 
 ---
 
@@ -207,13 +210,14 @@ DailyProgress/
 - [x] ORDER BY
 - [x] DISTINCT
 - [x] LIMIT
-- [ ] GROUP BY
-- [ ] HAVING
-- [ ] Aggregate Functions
+- [x] GROUP BY
+- [x] HAVING
+- [x] Aggregate Functions
 - [x] INNER JOIN
 - [x] LEFT JOIN
 - [x] RIGHT JOIN
-- [ ] SELF JOIN
+- [x] SELF JOIN
+- [x] CROSS JOIN
 - [ ] Subqueries
 - [ ] Window Functions
 - [ ] Indexes
@@ -229,16 +233,16 @@ DailyProgress/
 - [x] Locators
 - [x] XPath
 - [ ] CSS Selectors
-- [ ] WebDriver Methods
-- [ ] Browser Navigation
-- [ ] WebElement Methods
+- [x] WebDriver Methods
+- [x] Browser Navigation
+- [x] WebElement Methods
 
 ## Synchronization
 
-- [ ] Implicit Wait
-- [ ] Explicit Wait
-- [ ] Fluent Wait
-- [ ] ExpectedConditions
+- [x] Implicit Wait
+- [x] Explicit Wait
+- [x] Fluent Wait
+- [x] ExpectedConditions
 - [ ] Custom Waits
 
 ## Browser & UI Interactions
