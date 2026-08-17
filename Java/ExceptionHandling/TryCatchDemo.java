@@ -13,9 +13,7 @@ public class TryCatchDemo {
                 int n = 10;
                 int res = n / 0;
             } catch (ArithmeticException e) {
-                System.out.println(
-                        "Caught ArithmeticException: "
-                                + e.getClass().getName());
+                System.out.println("Caught ArithmeticException:" + e.getClass().getName());
             }
 
             // Inner try block 2
@@ -23,19 +21,14 @@ public class TryCatchDemo {
                 String s = null;
                 System.out.println(s.length());
             } catch (NullPointerException e) {
-                System.out.println(
-                        "Caught NullPointerException: "
-                                + e.getClass().getName());
+                System.out.println("Caught NullPointerException: " + e.getClass().getName());
             }
         } catch (Exception e) {
-            System.out.println(
-                    "Caught exception in outer try-catch: "
-                            + e);
+            System.out.println("Caught exception in outer try-catch: " + e);
         } finally {
             System.out.println("Finally block executed");
         }
 
-        System.out.println(
-                "Program continues after nested try-catch");
+        System.out.println("Program continues after nested try-catch");
     }
 }
