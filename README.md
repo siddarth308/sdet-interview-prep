@@ -198,8 +198,8 @@ DailyProgress/
 | Greedy             |        1 |
 | Kadane's Algorithm |        1 |
 | Simulation         |        1 |
-| Linked List        |        2 |
-| Binary Search      |        2 |
+| Linked List        |        4 |
+| Binary Search      |        4 |
 
 ---
 
