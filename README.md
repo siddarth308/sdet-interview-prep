@@ -107,6 +107,7 @@ DailyProgress/
 | Day 16 | ConcurrentHashMap, SELF JOIN & CROSS JOIN, Merge Two Sorted Lists, Remove Duplicates from Sorted List | ✅ |
 | Day 17 | Binary Search, Selenium WebDriver Architecture, Locators & XPath | ✅ |
 | Day 18 | Rotated Sorted Array, First & Last Position, Selenium WebDriver Methods & Waits, SQL GROUP BY & HAVING | ✅ |
+| Day 19 | Min Stack, Evaluate Reverse Polish Notation, Selenium Actions, Dropdowns, Frames, SQL Subqueries | ✅ |
 
 ---
 
