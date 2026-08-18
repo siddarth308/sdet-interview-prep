@@ -178,7 +178,7 @@ DailyProgress/
 
 - [x] Valid Parentheses
 - [x] Min Stack
-- [ ] Evaluate Reverse Polish Notation
+- [x] Evaluate Reverse Polish Notation
 
 ## Binary Search
 
@@ -196,7 +196,7 @@ DailyProgress/
 | HashMap            |        4 |
 | HashSet            |        1 |
 | Two Pointers       |        4 |
-| Stack              |        2 |
+| Stack              |        3 |
 | Greedy             |        1 |
 | Kadane's Algorithm |        1 |
 | Simulation         |        1 |
