@@ -10,7 +10,8 @@ public class NextGreaterElementI {
         HashMap<Integer, Integer> map = new HashMap<>();
 
         // Find next greater element for every number in nums2
-        for (int num : nums2) {
+        for (int i = 0; i < nums2.length; i++) {
+            int num = nums2[i];
             while (!stack.isEmpty() && stack.peek() < num) {
                 map.put(stack.pop(), num);
 
