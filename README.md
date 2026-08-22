@@ -1,7 +1,7 @@
 # SDET Interview Preparation 🚀
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
-![DSA](https://img.shields.io/badge/DSA-25%20Problems-blue)
+![DSA](https://img.shields.io/badge/DSA-27%20Problems-blue)
 ![SQL](https://img.shields.io/badge/SQL-Joins-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/siddarth308/sdet-interview-prep)
 ![Repo Size](https://img.shields.io/github/repo-size/siddarth308/sdet-interview-prep)
@@ -109,6 +109,7 @@ DailyProgress/
 | Day 18 | Rotated Sorted Array, First & Last Position, Selenium WebDriver Methods & Waits, SQL GROUP BY & HAVING | ✅ |
 | Day 19 | Min Stack, Evaluate Reverse Polish Notation, Selenium Actions, Dropdowns, Frames, SQL Subqueries | ✅ |
 | Day 20 | Daily Temperatures, Next Greater Element I, Selenium Frames & Windows, SQL Window Functions | ✅ |
+| Day 21 | Next Greater Element II, Online Stock Span, Selenium Actions & Alerts | 🔄 |
 
 ---
 
@@ -183,6 +184,8 @@ DailyProgress/
 - [x] Evaluate Reverse Polish Notation
 - [x] Daily Temperatures
 - [x] Next Greater Element I
+- [x] Next Greater Element II
+- [x] Online Stock Span
 
 ## Binary Search
 
@@ -200,7 +203,7 @@ DailyProgress/
 | HashMap            |        4 |
 | HashSet            |        1 |
 | Two Pointers       |        4 |
-| Stack              |        5 |
+| Stack              |        7 |
 | Greedy             |        1 |
 | Kadane's Algorithm |        1 |
 | Simulation         |        1 |
@@ -256,10 +259,10 @@ DailyProgress/
 ## Browser & UI Interactions
 
 - [ ] Dropdowns
-- [ ] Alerts
+- [x] Alerts
 - [ ] Frames / iFrames
 - [ ] Multiple Windows / Tabs
-- [ ] Actions Class
+- [x] Actions Class
 - [ ] JavaScript Executor
 - [ ] File Upload
 - [ ] File Download
