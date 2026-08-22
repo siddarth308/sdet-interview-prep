@@ -6,9 +6,9 @@ import java.util.Stack;
 
 public class NextGreaterElementII {
 
-    static ArrayList<Integer> nextGreater(int[] arr) {
+    static int[] nextGreater(int[] nums) {
 
-        int n = arr.length;
+        int n = nums.length;
         int[] res = new int[n];
 
         for (int i = 0; i < n; i++) {
@@ -17,7 +17,7 @@ public class NextGreaterElementII {
 
         Stack<Integer> st = new Stack<>();
         for (int i = 2 * n - 1; i >= 0; i--) {
-            int curr = arr[i % 2];
+            int curr = nums[i % n];
 
             while (!st.isEmpty() && st.peek() <= curr) {
                 st.pop();
@@ -27,12 +27,8 @@ public class NextGreaterElementII {
             }
             st.push(curr);
         }
-        ArrayList<Integer> result = new ArrayList<>();
-        for (int val : res) {
-            result.add(val);
-        }
-
-        return result;
+        return res;
 
     }
+
 }

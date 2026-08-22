@@ -19,15 +19,15 @@ public class StreamDemo {
 
         Stream<Integer> intStream = Stream.of(1, 2, 3, 4);
 
-        List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 4322, 9, 0, 5, 44, 23, 433);
+        List<Integer> list1 = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 4322, 9, 0, 5, 44, 23, 433);
 
-        List<Integer> filteredlList = list.stream().filter(x -> x % 2 == 0).collect(Collectors.toList());
+        List<Integer> filteredlList = list1.stream().filter(x -> x % 2 == 0).collect(Collectors.toList());
         System.out.println(filteredlList);
 
         List<Integer> MappedList = filteredlList.stream().map(x -> x / 2).collect(Collectors.toList());
 
         // OR
-        list.stream().filter(x -> x % 2 == 0).map(x -> x / 2).collect(Collectors.toList());
+        list1.stream().filter(x -> x % 2 == 0).map(x -> x / 2).collect(Collectors.toList());
 
     }
 }

@@ -5,4 +5,7 @@ package DSA.LinkedList;
  */
 public class ListNode {
 
+    public ListNode next;
+    public ListNode data;
+
 }

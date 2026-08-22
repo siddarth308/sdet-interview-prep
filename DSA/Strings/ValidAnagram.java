@@ -1,3 +1,28 @@
+/*
+-------------------------------------------------------
+Problem: Valid Anagram
+Difficulty: Easy
+LeetCode: #242
+Pattern: HashMap / Character Frequency
+
+Approach:
+- Count the frequency of each character.
+- Compare frequencies for both strings.
+- If all frequencies match, the strings are anagrams.
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+
+Key Learning:
+- Frequency counting using HashMap or array.
+- Strings are anagrams only if character counts match.
+
+Interview Follow-up:
+- How would you solve it if the strings contain Unicode characters?
+- How would you solve it without using HashMap?
+-------------------------------------------------------
+*/
+
 package DSA.Strings;
 
 import java.util.Arrays;

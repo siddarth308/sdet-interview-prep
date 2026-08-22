@@ -25,6 +25,8 @@ public class MaximumSubarray {
 
         for(int i=1; i< arr.length; i++){
             maxEnding = Math.max(maxEnding + arr[i], arr[i]);
+
+            res = Math.max(res, maxEnding);
         }
         return res;
 }

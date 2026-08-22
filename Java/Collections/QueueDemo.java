@@ -1,3 +1,5 @@
+// https://www.geeksforgeeks.org/dsa/queue-data-structure/
+
 package Java.Collections;
 
 public class QueueDemo {

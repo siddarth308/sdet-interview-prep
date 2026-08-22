@@ -21,6 +21,11 @@ SELECT CustomerName, City FROM Customers;
 
 
 
+-- DISTINCT
+SELECT Country FROM Customers;
+
+
+
 -- WHERE -
 
 SELECT * FROM Customers WHERE country = 'Japan';

@@ -1,3 +1,28 @@
+/*
+-------------------------------------------------------
+Problem: Best Time to Buy and Sell Stock
+Difficulty: Easy
+LeetCode: #121
+Pattern: Greedy / Arrays
+
+Approach:
+- Track the minimum price seen so far.
+- Calculate profit for each day.
+- Update maximum profit whenever a better one is found.
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+Key Learning:
+- Single-pass traversal.
+- Maintain running minimum.
+- Greedy works because only one transaction is allowed.
+
+Interview Follow-up:
+- What if multiple transactions are allowed?
+-------------------------------------------------------
+*/
+
 public class BestTimeToBuySellStock {
     static int maxProfit(int[] prices) {
         // int n = prices.length;

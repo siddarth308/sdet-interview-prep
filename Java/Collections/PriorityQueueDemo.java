@@ -1,4 +1,6 @@
+package Java.Collections;
 
+import java.util.Iterator;
 import java.util.PriorityQueue;
 
 public class PriorityQueueDemo {
@@ -11,6 +13,10 @@ public class PriorityQueueDemo {
         pq.add(1);
 
         System.out.println(pq);
+        Iterator<Integer> iterator = pq.iterator();
+        while (iterator.hasNext()) {
+            System.out.println(pq.poll() + " ");
+        }
 
     }
 

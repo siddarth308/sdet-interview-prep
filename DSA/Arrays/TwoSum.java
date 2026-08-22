@@ -1,23 +1,49 @@
+/*
+-------------------------------------------------------
+Problem: Two Sum
+Difficulty: Easy
+LeetCode: #1
+Pattern: HashMap
+
+Approach:
+- Store each number and its index in a HashMap.
+- For every element, check if (target - current) already exists.
+- If found, return both indices.
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+
+Key Learning:
+- HashMap provides O(1) average lookup.
+- Trade space for time.
+- One-pass HashMap solution is optimal.
+
+Interview Follow-up:
+- What if the array is sorted?
+- Can you solve it without extra space?
+-------------------------------------------------------
+*/
+
 // 2 arrays - 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int n = nums.length;
-        for (int i = 0; i < n; i ++){
+        for (int i = 0; i < n; i++) {
 
-        for (int j= i+1; j < n; j ++){
+            for (int j = i + 1; j < n; j++) {
 
-       if(nums[i] + nums[j] == target) {
-        return new int[]{i,j};
-       }
+                if (nums[i] + nums[j] == target) {
+                    return new int[] { i, j };
+                }
 
+            }
+
+        }
+        return new int[] {};
     }
-
-}
-return new int[]{};
-    }
 }
 
-//Using Sorting & 2 pointer technique
+// Using Sorting & 2 pointer technique
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
@@ -25,23 +51,24 @@ class Solution {
 
         int left = 0, right = nums.length - 1;
 
-        while(left < right) {
+        while (left < right) {
             int sum = nums[left] + nums[right];
-        
-        if(sum == target)
-        return new int[]{left, right};
 
-        else if (sum > target)
-        right--;
+            if (sum == target)
+                return new int[] { left, right };
 
-        else left++;
+            else if (sum > target)
+                right--;
+
+            else
+                left++;
+        }
+        return new int[] {};
     }
-    return new int[]{};
-}
 
 }
 
-//But here the issue will be for - nums =
+// But here the issue will be for - nums =
 // [3,2,4]
 // target =
 // 6
@@ -50,4 +77,4 @@ class Solution {
 // Expected
 // [1,2]
 
-//as after sorting indexing is changed to best is hashmap only
+// as after sorting indexing is changed to best is hashmap only
