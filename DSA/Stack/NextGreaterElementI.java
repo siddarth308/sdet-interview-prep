@@ -1,36 +1,48 @@
 package DSA.Stack;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Stack;
 
 public class NextGreaterElementI {
 
-    public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        Stack<Integer> stack = new Stack<>();
-        HashMap<Integer, Integer> map = new HashMap<>();
+    static ArrayList<Integer> nextLargerElement(int[] arr) {
 
-        // Find next greater element for every number in nums2
-        for (int i = 0; i < nums2.length; i++) {
-            int num = nums2[i];
-            while (!stack.isEmpty() && stack.peek() < num) {
-                map.put(stack.pop(), num);
+        int n = arr.length;
+        ArrayList<Integer> res = new ArrayList<>();
+        Stack<Integer> stk = new Stack<>();
 
+        // Initialize res with -1 for all elements
+        for (int i = 0; i < n; i++) {
+            res.add(-1);
+        }
+
+        for (int i = n - 1; i >= 0; i--) {
+
+            // Pop elements from the stack that are less
+            // than or equal to the current element
+            while (!stk.isEmpty() && stk.peek() <= arr[i]) {
+                stk.pop();
             }
 
-            stack.push(num);
+            // If the stack is not empty, the top element
+            // is the next greater element
+            if (!stk.isEmpty()) {
+                res.set(i, stk.peek());
+            }
+
+            // Push the current element onto the stack
+            stk.push(arr[i]);
         }
 
-        // Remaining elements have no greater element
-        while (!stack.isEmpty()) {
-            map.put(stack.pop(), -1);
-        }
-        // Build answer for nums1
-        int[] answer = new int[nums1.length];
+        return res;
+    }
 
-        for (int i = 0; i < nums1.length; i++) {
-
-            answer[i] = map.get(nums1[i]);
+    public static void main(String[] args) {
+        int[] arr = { 6, 8, 0, 1, 3 };
+        ArrayList<Integer> res = nextLargerElement(arr);
+        for (int x : res) {
+            System.out.print(x + " ");
         }
-        return answer;
     }
 }
