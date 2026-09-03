@@ -1,7 +1,7 @@
 # SDET Interview Preparation 🚀
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
-![DSA](https://img.shields.io/badge/DSA-27%20Problems-blue)
+![DSA](https://img.shields.io/badge/DSA-28%20Problems-blue)
 ![SQL](https://img.shields.io/badge/SQL-Joins-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/siddarth308/sdet-interview-prep)
 ![Repo Size](https://img.shields.io/github/repo-size/siddarth308/sdet-interview-prep)
@@ -109,7 +109,9 @@ DailyProgress/
 | Day 18 | Rotated Sorted Array, First & Last Position, Selenium WebDriver Methods & Waits, SQL GROUP BY & HAVING | ✅ |
 | Day 19 | Min Stack, Evaluate Reverse Polish Notation, Selenium Actions, Dropdowns, Frames, SQL Subqueries | ✅ |
 | Day 20 | Daily Temperatures, Next Greater Element I, Selenium Frames & Windows, SQL Window Functions | ✅ |
-| Day 21 | Next Greater Element II, Online Stock Span, Selenium Actions & Alerts | 🔄 |
+| Day 21 | Next Greater Element II, Online Stock Span, Selenium Actions & Alerts | ✅ |
+| Day 22 | Revision — DSA, Selenium & SQL | ✅ |
+| Day 23 | Maximum Average Subarray I, Selenium Dropdowns & JavaScriptExecutor | 🔄 |
 
 ---
 
@@ -194,6 +196,10 @@ DailyProgress/
 - [x] Search in Rotated Sorted Array
 - [x] Find First and Last Position of Element in Sorted Array
 
+## Sliding Window
+- [x] Maximum Average Subarray I
+- [ ] Longest Substring Without Repeating Characters
+
 ---
 
 ## 📈 DSA Patterns
@@ -258,12 +264,12 @@ DailyProgress/
 
 ## Browser & UI Interactions
 
-- [ ] Dropdowns
+- [x] Dropdowns
 - [x] Alerts
 - [ ] Frames / iFrames
 - [ ] Multiple Windows / Tabs
 - [x] Actions Class
-- [ ] JavaScript Executor
+- [x] JavaScript Executor
 - [ ] File Upload
 - [ ] File Download
 
