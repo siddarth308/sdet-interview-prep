@@ -13,7 +13,7 @@ public class MaximumAverageSubarrayI {
         int maxSum = windowSum;
 
         for (int i = k; i < nums.length; i++) {
-            windowSum += nums[i];
+
             windowSum = windowSum - nums[i - k] + nums[i];
 
             maxSum = Math.max(maxSum, windowSum);
