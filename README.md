@@ -1,7 +1,7 @@
 # SDET Interview Preparation 🚀
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
-![DSA](https://img.shields.io/badge/DSA-28%20Problems-blue)
+![DSA](https://img.shields.io/badge/DSA-30%20Problems-blue)
 ![SQL](https://img.shields.io/badge/SQL-Joins-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/siddarth308/sdet-interview-prep)
 ![Repo Size](https://img.shields.io/github/repo-size/siddarth308/sdet-interview-prep)
@@ -112,6 +112,7 @@ DailyProgress/
 | Day 21 | Next Greater Element II, Online Stock Span, Selenium Actions & Alerts | ✅ |
 | Day 22 | Revision — DSA, Selenium & SQL | ✅ |
 | Day 23 | Maximum Average Subarray I, Selenium Dropdowns & JavaScriptExecutor | 🔄 |
+| Day 24 | Longest Substring Without Repeating Characters, Longest Repeating Character Replacement, StaleElementReferenceException | ✅ |
 
 ---
 
@@ -198,7 +199,8 @@ DailyProgress/
 
 ## Sliding Window
 - [x] Maximum Average Subarray I
-- [ ] Longest Substring Without Repeating Characters
+- [x] Longest Substring Without Repeating Characters
+- [x] Longest Repeating Character Replacement
 
 ---
 
@@ -261,6 +263,9 @@ DailyProgress/
 - [x] Fluent Wait
 - [x] ExpectedConditions
 - [ ] Custom Waits
+
+## Exceptions
+- [x] StaleElementReferenceException
 
 ## Browser & UI Interactions
 
