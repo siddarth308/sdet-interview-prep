@@ -113,6 +113,7 @@ DailyProgress/
 | Day 22 | Revision — DSA, Selenium & SQL | ✅ |
 | Day 23 | Maximum Average Subarray I, Selenium Dropdowns & JavaScriptExecutor | 🔄 |
 | Day 24 | Longest Substring Without Repeating Characters, Longest Repeating Character Replacement, StaleElementReferenceException | ✅ |
+| Day 25 | Backend/API Automation Foundations, HTTP Fundamentals, Postman | ✅ |
 
 ---
 
@@ -241,6 +242,61 @@ DailyProgress/
 
 ---
 
+# 🔌 API / Backend Automation Progress
+
+## API Fundamentals
+
+- [x] What is an API?
+- [x] Client vs Server
+- [x] REST API
+- [x] Endpoints
+- [x] API Request
+- [x] API Response
+
+## HTTP Fundamentals
+
+- [x] GET
+- [x] POST
+- [x] PUT
+- [x] PATCH
+- [x] DELETE
+- [x] HTTP Headers
+- [x] Path Parameters
+- [x] Query Parameters
+- [x] Request Body
+- [x] Response Body
+- [x] HTTP Status Codes
+
+## Postman
+
+- [x] GET Requests
+- [x] GET by ID
+- [x] POST Requests
+- [x] Request/Response Validation
+- [ ] Collections
+- [ ] Environment Variables
+- [ ] Pre-request Scripts
+- [ ] Tests & Assertions
+
+## REST Assured
+
+- [ ] REST Assured Basics
+- [ ] GET Requests
+- [ ] POST Requests
+- [ ] PUT Requests
+- [ ] PATCH Requests
+- [ ] DELETE Requests
+- [ ] Assertions
+- [ ] Headers
+- [ ] Path Parameters
+- [ ] Query Parameters
+- [ ] Serialization / Deserialization
+- [ ] Authentication
+- [ ] Request/Response Specification
+- [ ] API Chaining
+
+---
+
 # 🌐 Selenium Progress
 
 ## WebDriver Fundamentals
@@ -253,8 +309,6 @@ DailyProgress/
 - [x] WebDriver Methods
 - [x] Browser Navigation
 - [x] WebElement Methods
-- [x] Frames / iFrames
-- [x] Multiple Windows / Tabs
 
 ## Synchronization
 
@@ -271,8 +325,8 @@ DailyProgress/
 
 - [x] Dropdowns
 - [x] Alerts
-- [ ] Frames / iFrames
-- [ ] Multiple Windows / Tabs
+- [x] Frames / iFrames
+- [x] Multiple Windows / Tabs
 - [x] Actions Class
 - [x] JavaScript Executor
 - [ ] File Upload
